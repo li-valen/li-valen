@@ -17,8 +17,7 @@
 </div>
 
 <div id="count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=li-valen&style=for-the-badge&color=blue" alt="Profile Views - For The Badge Style"/>
-  <img src="https://komarev.com/ghpvc/?username=li-valen&style=flat-square&color=blue" alt="Profile Views - Flat Square Style"/>
+  <img src="https://komarev.com/ghpvc/?username=li-valen&style=for-the-badge&color=blue&base=1000" alt="Profile Views - For The Badge Style"/>
 </div>
 
 <h2>About Me:</h2>
@@ -52,9 +51,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=li-valen&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-valen&layout=compact&theme=radical" alt="Top Languages"/>
@@ -68,19 +65,3 @@
 </div>
 
 ---
-
-### 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=li-valen&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 📈 Profile Views:
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=li-valen&style=for-the-badge&color=blue" alt="Profile Views - For The Badge Style"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=li-valen&style=flat-square&color=blue" alt="Profile Views - Flat Square Style"/>
-</div>
