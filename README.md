@@ -2,7 +2,7 @@
   <img src="banner.png" width="1000"/>
 </div>
 
-<h1 align="center">Welcome to my Github! 😺😸😺😸</h1>
+<h1 align="center">Welcome to my Github!</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/valen-li/">
@@ -17,15 +17,15 @@
 </div>
 
 <div id="count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=li-valen&style=for-the-badge&color=blue&base=1000" alt="Profile Views - For The Badge Style"/>
+  <img src="https://komarev.com/ghpvc/?username=li-valen&style=for-the-badge&color=blue&base=2456" alt="Profile Views - For The Badge Style"/>
 </div>
 
 <h2>About Me:</h2>
-<p>I am a student in Philly👌</p>
-<p> - 🔭 I complete projects from time to time as a self-taught programmer. </p>
+<p>I am a high school student in Philly</p>
+<p> - 🔭 I complete projects from time to time as a self-taught programmer.</p>
 <p> - 🍞 "Gotta love me some good bread." </p>
-<p> - 🔰 In my freetime, I enjoy watching anime. </p>
-<p> - 📭 Feel free to reach out to me via LinkedIn. </p>
+<p> - 🔰  My hobbies are Poker, Chess, Cubing, Pen spinning, keyboards flipping. </p>
+<p> - 📭 Feel free to reach out to me via LinkedIn or email. </p>
 
 <h2>Programming Languages:</h2>
 <p>Java, Python, C, C++, LaTeX, JavaScript, HTML/CSS, TypeScript, R</p>
@@ -51,8 +51,6 @@
 ---
 
 ### 📊 GitHub Stats:
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-valen&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
