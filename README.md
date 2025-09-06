@@ -22,7 +22,7 @@
 <p>I am a high school student in Philly</p>
 <p> - ⚙️ I complete projects from time to time as a self-taught programmer.</p>
 <p> - ♟️ My hobbies are Poker, Chess, Cubing, Pen spinning, and Computer/Keyboard Building. </p>
-<p> - <img src="Immortal_Rank.webp" alt="Immortal Rank" width="20" height="20" style="vertical-align: -3px;"/> Peak Immortal in Valorant, Sub 13 in Minecraft Speedrunning, Sub 20 3x3 Cubing </p>
+<p> - <img src="Immortal_Rank.webp" alt="Immortal Rank" width="20" height="20" style="vertical-align: -500px;"/> Peak Immortal in Valorant, Sub 13 in Minecraft Speedrunning, Sub 20 3x3 Cubing </p>
 <p> - 💻 Web/Mobile App Full-Stack Dev, Robotics, Data Science, Machine Learning</p>
 <p> - 📭 Feel free to reach out to me via LinkedIn or email. </p>
 
