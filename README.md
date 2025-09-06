@@ -67,7 +67,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-  <img src="vercel.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+  <img src="vercel.png" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
 
 </div>
 
