@@ -1,10 +1,6 @@
-<div id="header" align="center">
-  <img src="banner.png" width="1000"/>
-</div>
-
 ![👋 Hi, my name is Valen Li](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 
-<h1 align="center">Welcome to my Github!</h1>
+<h1 align="center">👋 Hi, my name is Valen Li</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/valen-li/">
