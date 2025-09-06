@@ -23,10 +23,8 @@
 <p> - ⚙️ I complete projects from time to time as a self-taught programmer.</p>
 <p> - ♟️  My hobbies are Poker, Chess, Cubing, Pen spinning, and Computer/Keyboard Building. </p>
 <p> - <img src="Immortal_Rank.webp" alt="Immortal Rank" width="20" height="20"/> Peak Immortal in Valorant, Sub 13 in Minecraft Speedrunning, Sub 20 3x3 Cubing </p>
+<p> - 💻 Web/Mobile App Full-Stack Dev, Robotics, Data Science, Machine Learning</p>
 <p> - 📭 Feel free to reach out to me via LinkedIn or email. </p>
-
-<h2>Skills:</h2>
-<p>Web/App/Mobile app/Full-Stack Dev, Data Science, Machine Learning, AI, Financial Analysis</p>
 
 ---
 
@@ -85,7 +83,7 @@
 
 ### 📊 Profile Summary:
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li-valen&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li-valen&theme=radical&v=2" alt="Profile Summary"/>
 </div>
 
 ---
