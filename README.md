@@ -1,7 +1,7 @@
-![👋 Hi, my name is Valen Li](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+![👋 Hi, my name is Valen Li](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 <h1 align="center">👋 Hi, my name is Valen Li</h1>
-
+https://komarev.com/ghpvc/?username=li-valen&style=for-the-badge&color=blue&base=2456
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/valen-li/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,7 @@
 </div>
 
 <div id="count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=li-valen&style=for-the-badge&color=blue&base=2456" alt="Profile Views - For The Badge Style"/>
+  <img src="" alt="Profile Views - For The Badge Style"/>
 </div>
 
 <h2>About Me:</h2>
