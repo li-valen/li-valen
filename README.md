@@ -76,7 +76,7 @@
 
 ---
 
-### 🐍 Snake Game (GitHub Contributions):
+### 📈 Contribution Graph:
 <div align="center">
   <img src="https://raw.githubusercontent.com/li-valen/li-valen/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
 </div>
