@@ -81,9 +81,10 @@
   <img src="https://raw.githubusercontent.com/li-valen/li-valen/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
 </div>
 
+---
+
 ### 📊 Profile Summary:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li-valen&theme=radical&v=2" alt="Profile Summary"/>
 </div>
 
----
