@@ -71,7 +71,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-valen&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-master-soontoshs-projects.vercel.app/api/top-langs/?username=li-valen&theme=radical&layout=compact&langs_count=8&card_width=400" alt="Top Languages"/>
 </div>
 
 ---
