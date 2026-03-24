@@ -28,6 +28,17 @@
 
 ---
 
+### 🚀 Personal Projects & Websites:
+- [LearnAI](https://li-valen.github.io/LearnAI)
+- [Root2Success](http://root2success.org)
+- [Micro Pantry (Website)](https://micropantry.org)
+- [James H Campbell](https://james-h-campbell.vercel.app)
+- [Work Tracker Chrome Extension](https://chromewebstore.google.com/detail/hbbngeiebgbnggkchmokncbiicldfkck)
+- [Micro Pantry (iOS App)](https://apps.apple.com/us/app/micro-pantry/id6752362422)
+- [Leadership in the Business World @ Wharton Slide Deck](https://www.canva.com/design/DAGt7D0ei7M/Xnchay4z5OCWafSrfZjrlw/view?utm_content)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 #### Programming Languages:
